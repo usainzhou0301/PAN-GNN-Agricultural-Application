@@ -62,10 +62,10 @@ simulation
 EI-PAN/2d-trajectories-visualization/ and EI-GNN/2d-trajectories-visualization/ store the 2D visualization figure result of the algorithm EI-PAN and GNN. The i.png means the i-th scenario. In the paper, we choose the 1st terrain as scenario 1 and the 8th terrain as scenario 2.
 
 ```EI-PAN 2D trajectories result for 1st terrain:```
-<img width="1000" height="1000" alt="1" src="https://github.com/user-attachments/assets/0c19e781-3fc8-40f9-8552-ec1d5c40eea1" />
+<img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/0c19e781-3fc8-40f9-8552-ec1d5c40eea1" />
 
 ```EI-GNN 2D trajectories result for 1st terrain:```
-<img width="1000" height="1000" alt="1" src="https://github.com/user-attachments/assets/4e451a3e-9f2c-4a18-8a13-fe59a1a89b11" />
+<img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/4e451a3e-9f2c-4a18-8a13-fe59a1a89b11" />
 
 EI-PAN/3d-trajectories-visualization/ and EI-GNN/3d-trajectories-visualization/ store the 3D visualization figure result of the algorithm EI-PAN and GNN. The i.html means the i-th scenario. In the paper, we choose the 0th terrain as scenario 1 and the 8th terrain as scenario 2. The HTML file we generated opens a 3D model of the trajectories, which can be dragged, zoomed, and rotated, allowing convenient observation of both the trajectories and the terrain.
 ```EI-PAN 3D trajectories result for 1st terrain:```
