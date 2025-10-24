@@ -57,17 +57,18 @@ simulation
 │       ├── return_test.py                       # Subtask & full evaluation
 │       └── main_test.py                         # Subtask & full evaluation
 ```
+<img width="1113" height="900" alt="1_00" src="https://github.com/user-attachments/assets/eb68d7ae-bc3b-4adf-abf1-28094b8ac96b" />
 
 # Simulation Results
 EI-PAN/3d-trajectories-visualization/ and EI-GNN/3d-trajectories-visualization/ store the 3D visualization figure result of the algorithm EI-PAN and GNN. The i.html means the i-th scenario. In the paper, we choose the 0th terrain as scenario 1 and the 8th terrain as scenario 2. The HTML file we generated opens a 3D model of the trajectories, which can be dragged, zoomed, and rotated, allowing convenient observation of both the trajectories and the terrain.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c19e781-3fc8-40f9-8552-ec1d5c40eea1" width="500" height="500" />
+  <img src="https://github.com/user-attachments/assets/e9420dea-ca55-45f0-a8b3-55778057615c" width="500" height="500" />
 </p>
 <p align="center"><b>Figure: EI-PAN 2D trajectories result for 1st terrain</b></p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e451a3e-9f2c-4a18-8a13-fe59a1a89b11" width="500" height="500" />
+  <img src="https://github.com/user-attachments/assets/eb68d7ae-bc3b-4adf-abf1-28094b8ac96b" width="500" height="500" />
 </p>
 <p align="center"><b>Figure: EI-GNN 2D trajectories result for 1st terrain</b></p>
 
