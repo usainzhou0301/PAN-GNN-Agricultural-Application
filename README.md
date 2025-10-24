@@ -59,6 +59,8 @@ simulation
 ```
 
 # Simulation Results
+EI-PAN/3d-trajectories-visualization/ and EI-GNN/3d-trajectories-visualization/ store the 3D visualization figure result of the algorithm EI-PAN and GNN. The i.html means the i-th scenario. In the paper, we choose the 0th terrain as scenario 1 and the 8th terrain as scenario 2. The HTML file we generated opens a 3D model of the trajectories, which can be dragged, zoomed, and rotated, allowing convenient observation of both the trajectories and the terrain.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c19e781-3fc8-40f9-8552-ec1d5c40eea1" width="500" height="500" />
 </p>
